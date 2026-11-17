@@ -108,6 +108,7 @@ img {
 
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     justify-items: center;
     align-items: center;
 
